@@ -1,0 +1,17 @@
+/**
+ * Homepage Team Section styles
+ */
+
+.team .team-block-social-media a {
+	color: inherit;
+	opacity: 0.25;
+	font-size: 1.25rem;
+	-webkit-transition: opacity .5s ease-in-out;
+	-moz-transition: opacity .5s ease-in-out;
+	transition: opacity .5s ease-in-out;
+}
+
+.team .team-block-social-media a:hover {
+	opacity: 1;
+	text-decoration: none;
+}

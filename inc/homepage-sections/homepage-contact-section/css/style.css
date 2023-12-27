@@ -1,0 +1,11 @@
+/**
+ * Homepage Contact Section styles
+ */
+
+.contact button, 
+.contact input[type="button"], 
+.contact input[type="reset"], 
+.contact input[type="submit"] {
+    width: 100%;
+}
+

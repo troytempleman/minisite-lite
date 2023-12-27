@@ -1,0 +1,12 @@
+/**
+ * Icon Fonts Customizer styles
+ */
+
+#customize-control-activate_icon_fonts {
+	margin-bottom: 0;
+}
+
+#customize-control-activate_icon_fonts label {
+	font-size: 14px;
+	font-weight: 600;
+}

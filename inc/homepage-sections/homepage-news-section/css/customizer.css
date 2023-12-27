@@ -1,0 +1,209 @@
+/**
+ * Homepage News Section Customizer styles
+ */
+
+.customize-control {
+    margin-bottom: 8px;
+}
+
+.customize-control select {
+	margin: 0;
+}
+
+.customize-control .mce-edit-area iframe,
+.customize-control .customize-control-tinymce-editor {
+	min-height: 145px !important;
+	margin-bottom: -4px;
+}
+
+.customize-control .iris-picker {
+	margin-top: 12px;
+}
+
+.customize-control .upload-button,
+.customize-control .wp-color-result {
+	margin-bottom: 1px;
+}
+
+#customize-control-display_news,
+#customize-control-display_news_title,
+#customize-control-display_news_text,
+#customize-control-display_news_items,
+#customize-control-display_news_carousel,
+#customize-control-display_news_button,
+#customize-control-display_news_colors,
+#customize-control-display_news_heading_color,
+#customize-control-display_news_font_color,
+#customize-control-display_news_background,
+#customize-control-display_news_background_color,
+#customize-control-display_news_background_image,
+#customize-control-display_news_padding,
+#customize-control-news_top_padding,
+#customize-control-news_bottom_padding {
+	margin-bottom: 0;
+}
+
+#customize-control-display_news label,
+#customize-control-display_news_title label,
+#customize-control-display_news_text label,
+#customize-control-display_news_items label,
+#customize-control-display_news_carousel label,
+#customize-control-display_news_button label,
+#customize-control-display_news_colors label,
+#customize-control-display_news_heading_color label,
+#customize-control-display_news_font_color label,
+#customize-control-display_news_background label,
+#customize-control-display_news_background_color label,
+#customize-control-display_news_background_image label,
+#customize-control-display_news_padding label,
+#customize-control-news_top_padding label,
+#customize-control-news_bottom_padding label {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+#customize-control-news_title .customize-control-title,
+#customize-control-news_text .customize-control-title,
+#customize-control-news_items .customize-control-title,
+#customize-control-news_button_text .customize-control-title,
+#customize-control-news_heading_color .customize-control-title,
+#customize-control-news_font_color .customize-control-title,
+#customize-control-news_background_color .customize-control-title,
+#customize-control-news_background_image .customize-control-title {
+	display: none;	
+}
+
+#customize-control-news_item_word_count .customize-control-title, 
+#customize-control-news_carousel_slides_to_show .customize-control-title, 
+#customize-control-news_carousel_slides_to_scroll .customize-control-title, 
+#customize-control-news_carousel_speed .customize-control-title, 
+#customize-control-news_carousel_arrows .customize-control-title, 
+#customize-control-news_carousel_dots .customize-control-title, 
+#customize-control-news_carousel_autoplay .customize-control-title, 
+#customize-control-news_carousel_autoplay_speed .customize-control-title, 
+#customize-control-news_carousel_center_mode .customize-control-title, 
+#customize-control-news_carousel_draggable .customize-control-title, 
+#customize-control-news_carousel_fade .customize-control-title, 
+#customize-control-news_carousel_infinite_looping .customize-control-title, 
+#customize-control-news_carousel_initial_slide .customize-control-title, 
+#customize-control-news_carousel_rows .customize-control-title, 
+#customize-control-news_carousel_slides_per_row .customize-control-title, 
+#customize-control-news_button_url .customize-control-title, 
+#customize-control-news_background_image_size .customize-control-title, 
+#customize-control-news_background_image_position .customize-control-title, 
+#customize-control-news_background_image_attachment .customize-control-title, 
+#customize-control-news_background_image_repeat .customize-control-title, 
+#customize-control-news_background_image_opacity .customize-control-title, 
+#customize-control-news_overlay_color .customize-control-title, 
+#customize-control-news_overlay_color_opacity .customize-control-title, 
+#customize-control-news_blend_mode .customize-control-title,
+#customize-control-news_top_padding label,
+#customize-control-news_bottom_padding label {
+	font-weight: normal;
+}
+
+#customize-control-display_news_carousel label,
+#customize-control-display_news_heading_color label,
+#customize-control-display_news_font_color label,
+#customize-control-display_news_background_color label,
+#customize-control-display_news_background_image label {
+	font-weight: normal;
+}
+
+#customize-control-news_slug {
+	margin: -1px 6px 1px;
+}
+
+#customize-control-news_slug .customize-control-title {
+	display: none;
+}
+
+#customize-control-news_slug .customize-control-description {
+	display: inline-block;
+	color: #666;
+	font-size: 13px;
+	font-weight: normal;
+	font-style: normal;
+	padding: 3px 0 0;
+	margin: -3px -4px 0 0;	
+}
+
+#customize-control-news_slug input {
+	display: inline-block;
+	color: #666;
+	font-size: 13px;
+	line-height: 18px;
+	width: 34px;
+	border: none;
+	box-shadow: none;
+	background-color: transparent;
+	padding: 3px 0;
+	margin-top: -3px;
+}
+
+#customize-control-news_slug input:focus {
+	width: 100%;
+	color: #32373c;
+    border: 1px solid #ddd;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    background-color: #fff;
+	padding: 2px 5px;
+	margin: 3px 0 7px -6px;
+}
+
+#customize-control-news_text .wp-switch-editor {
+	margin-top: -28px;
+}
+
+#customize-control-news_background_image_opacity,
+#customize-control-news_overlay_color_opacity {
+	margin-bottom: 0;
+}
+
+#customize-control-news_background_image_opacity input,
+#customize-control-news_overlay_color_opacity input,
+#customize-control-news_top_padding input,
+#customize-control-news_bottom_padding input {
+	margin-top: -3px;	
+}
+
+#customize-control-display_news_colors,
+#customize-control-display_news_background,
+#customize-control-display_news_padding,
+#customize-control-display_news_animation,
+#customize-control-display_news_widgets {
+	margin-bottom: 0;
+}
+
+#customize-control-display_news_colors label,
+#customize-control-display_news_background label,
+#customize-control-display_news_padding label,
+#customize-control-display_news_animation label,
+#customize-control-display_news_widgets label,
+#_customize-input-display_news_colors,
+#_customize-input-display_news_background,
+#_customize-input-display_news_padding,
+#_customize-input-display_news_animation,
+#_customize-input-display_news_widgets {
+	display: none;
+}
+
+#_customize-description-display_news_colors,
+#_customize-description-display_news_background,
+#_customize-description-display_news_padding,
+#_customize-description-display_news_animation,
+#_customize-description-display_news_widgets {
+	font-size: 14px;
+	font-weight: 600;
+	font-style: normal;
+}
+
+#_customize-description-display_news_colors a,
+#_customize-description-display_news_background a,
+#_customize-description-display_news_padding a,
+#_customize-description-display_news_animation a,
+#_customize-description-display_news_widgets a {
+	text-decoration: none;
+	font-variant: all-small-caps;
+	margin-left: 5px;
+}

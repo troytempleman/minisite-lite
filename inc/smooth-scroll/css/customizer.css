@@ -1,0 +1,26 @@
+/**
+ * Social Sharing Customizer styles.
+ */
+
+#customize-control-activate_smooth_scroll,
+#customize-control-display_social_sharing,
+#customize-control-display_facebook,
+#customize-control-display_twitter,
+#customize-control-display_google_plus,
+#customize-control-display_linkedin,
+#customize-control-display_pinterest,
+#customize-control-display_email {
+	margin-bottom: 0;
+}
+
+#customize-control-activate_smooth_scroll label,
+#customize-control-display_social_sharing label,
+#customize-control-display_facebook label,
+#customize-control-display_twitter label,
+#customize-control-display_google_plus label,
+#customize-control-display_linkedin label,
+#customize-control-display_pinterest label,
+#customize-control-display_email label {
+	font-size: 14px;
+	font-weight: 600;
+}

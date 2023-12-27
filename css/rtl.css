@@ -1,0 +1,8 @@
+/*
+ * Right To Left language styles
+ */
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}

@@ -1,0 +1,62 @@
+/**
+ * Homepage Header Section styles
+ */
+
+#homepage-header-image {
+	position: relative;
+}
+
+#homepage-header-image .homepage-header-image-background-image,
+#homepage-header-image .homepage-header-image-overlay-color { 
+	background: center center / cover no-repeat;
+	content:"";
+	position: absolute;
+	z-index: 0;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+#homepage-header-image .container {
+	display: table;
+}
+
+#homepage-header-image .homepage-header-image-caption {
+    position: static;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	text-shadow: none;
+	padding-top: 8.25rem;
+	padding-bottom: 8.25rem;
+}
+
+#homepage-header-image .scroll-down-arrow {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 2.625rem;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMzIgMTgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDE4OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGw6I0ZGRkZGRjt9PC9zdHlsZT48cG9seWdvbiBjbGFzcz0ic3QwIiBwb2ludHM9IjEzLjksMTUuOSAwLjEsMi4xIDIuMiwwIDE2LDEzLjggMjkuOCwwIDMxLjksMi4xIDE4LjEsMTUuOSAxNiwxOCAiLz48L3N2Zz4=) center / contain no-repeat;
+    width: 2rem;
+    height: 1.125rem;
+	display: block;
+	opacity: 0.5;
+	outline: none;
+	margin: 0 auto;
+    -webkit-animation: more-arrow-bounce 1s ease-in-out infinite alternate;
+    animation: more-arrow-bounce 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes more-arrow-bounce {
+    0% 		{ -webkit-transform: translateY(-9px); transform: translateY(-9px) }
+	100% 	{ -webkit-transform: translateY(9px); transform: translateY(9px)}
+}
+@keyframes more-arrow-bounce {
+    0% 		{ -webkit-transform: translateY(-9px); transform: translateY(-9px)}
+	100% 	{ -webkit-transform: translateY(9px); transform: translateY(9px)}
+}
+
+#homepage-header-image .scroll-down-arrow:hover {
+	opacity: 1;
+}

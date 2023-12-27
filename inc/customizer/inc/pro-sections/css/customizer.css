@@ -1,0 +1,25 @@
+#customize-controls .control-section-minisite .accordion-section-title {
+	cursor: pointer;
+}
+
+#customize-controls .control-section-minisite .accordion-section-title:hover,
+#customize-controls .control-section-minisite .accordion-section-title:focus {
+	color: #0073aa;
+	background: #f3f3f5;
+	border-left-color: #0073aa;
+}
+
+#customize-controls .control-section-minisite .accordion-section-title:after {
+	display: block;
+}
+
+#customize-controls .control-section-minisite .accordion-section-title .pro-text {
+	color: #0073aa;
+	font-variant: all-small-caps;
+	margin-left: 5px;
+}
+
+.control-section-minisite a,
+.control-section-minisite a:hover {
+	text-decoration: none;
+}

@@ -1,0 +1,35 @@
+/**
+ * Homepage Map Section Customizer styles
+ */
+
+.customize-control {
+    margin-bottom: 8px;
+}
+
+#customize-control-display_map {
+	margin-bottom: 0;
+}
+
+#customize-control-display_map label {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+#customize-control-map_title .customize-control-title, 
+#customize-control-map_address .customize-control-title, 
+#customize-control-map_city_town .customize-control-title, 
+#customize-control-map_state_province .customize-control-title, 
+#customize-control-map_country .customize-control-title, 
+#customize-control-map_zip_postal_code .customize-control-title, 
+#customize-control-map_zip_postal_code .customize-control-title, 
+#customize-control-map_zoom_level .customize-control-title {
+	font-weight: normal;
+}
+
+#customize-control-map_zoom_level {
+	margin-bottom: 0;
+}
+
+#customize-control-map_zoom_level input {
+	margin-top: -3px;	
+}

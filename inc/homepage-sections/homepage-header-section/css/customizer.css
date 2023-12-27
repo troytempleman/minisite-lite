@@ -1,0 +1,196 @@
+/**
+ * Homepage Header Section Customizer styles
+ */
+
+.customize-control {
+    margin-bottom: 8px;
+}
+
+.customize-control select {
+	margin: 0;
+}
+
+.customize-control .mce-edit-area iframe,
+.customize-control .customize-control-tinymce-editor {
+	min-height: 145px !important;
+	margin-bottom: -4px;
+}
+
+.wp-picker-container .wp-color-result.button {
+	margin-bottom: 0;
+}
+
+.customize-control .iris-picker {
+	margin-top: 12px;
+}
+
+.customize-control .upload-button,
+.customize-control .wp-color-result {
+	margin-bottom: 1px;
+}
+
+#customize-control-sticky_homepage_navbar_description,
+#customize-control-display_homepage_navbar,
+#customize-control-display_homepage_logo,
+#customize-control-display_homepage_site_logo_icon,
+#customize-control-display_homepage_site_title,
+#customize-control-display_homepage_navbar_colors,
+#customize-control-sticky_homepage_navbar,
+#customize-control-display_sticky_homepage_navbar_logo,
+#customize-control-display_sticky_homepage_navbar_colors,
+#customize-control-display_homepage_header,
+#customize-control-full_screen_homepage_header,
+#customize-control-display_homepage_header_position,
+#customize-control-display_homepage_header_height,
+#customize-control-homepage_header_scroll_down_arrow,
+#customize-control-display_homepage_header_image_title,
+#customize-control-display_homepage_header_image_text,
+#customize-control-display_homepage_header_image_button_1,
+#customize-control-display_homepage_header_image_button_2,
+#customize-control-display_homepage_header_image_background,
+#customize-control-homepage_header_image_background_image_opacity,
+#customize-control-display_homepage_header_image_background,
+#customize-control-display_homepage_header_image_background_color,
+#customize-control-display_homepage_header_image_background_image,
+#customize-control-display_homepage_header_image_colors,
+#customize-control-display_homepage_header_image_heading_color,
+#customize-control-display_homepage_header_image_font_color,
+#customize-control-display_homepage_header_padding,
+#customize-control-homepage_header_top_padding,
+#customize-control-homepage_header_bottom_padding {
+	margin-bottom: 0;
+}
+
+#customize-control-display_homepage_navbar label,
+#customize-control-sticky_homepage_navbar label,
+#customize-control-display_homepage_header label,
+#customize-control-display_homepage_header_background label {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+#customize-control-sticky_homepage_navbar_description label,
+#customize-control-display_homepage_navbar label,
+#customize-control-display_homepage_logo label,
+#customize-control-display_homepage_site_logo_icon label,
+#customize-control-display_homepage_site_title label,
+#customize-control-display_homepage_navbar_colors label,
+#customize-control-sticky_homepage_navbar label,
+#customize-control-display_sticky_homepage_navbar_logo label,
+#customize-control-display_sticky_homepage_navbar_colors label,
+#customize-control-display_sticky_homepage_navbar_colors label,
+#customize-control-full_screen_homepage_header label,
+#customize-control-display_homepage_header_position label,
+#customize-control-display_homepage_header_height label,
+#customize-control-homepage_header_scroll_down_arrow label,
+#customize-control-display_homepage_header_image_title label,
+#customize-control-display_homepage_header_image_text label,
+#customize-control-display_homepage_header_image_button_1 label,
+#customize-control-display_homepage_header_image_button_2 label,
+#customize-control-display_homepage_header_image_background label,
+#customize-control-display_homepage_header_image_background_color label,
+#customize-control-display_homepage_header_image_background_image label,
+#customize-control-display_homepage_header_image_colors label,
+#customize-control-display_homepage_header_image_heading_color label,
+#customize-control-display_homepage_header_image_font_color label,
+#customize-control-display_homepage_header_padding label,
+#customize-control-homepage_header_top_padding label,
+#customize-control-homepage_header_bottom_padding label {
+	font-size: 14px;
+}
+
+#customize-control-homepage_navbar_background_color .customize-control-title,
+#customize-control-homepage_navbar_font_color .customize-control-title,
+#customize-control-homepage_site_logo_size .customize-control-title,
+#customize-control-homepage_site_logo_icon_color .customize-control-title,
+#customize-control-homepage_site_logo_icon_size .customize-control-title,
+#customize-control-homepage_site_title_color .customize-control-title,
+#customize-control-homepage_site_title_size .customize-control-title,
+#customize-control-sticky_homepage_navbar_background_color .customize-control-title,
+#customize-control-sticky_homepage_navbar_font_color .customize-control-title,
+#customize-control-sticky_homepage_navbar_icon_color .customize-control-title,
+#customize-control-sticky_homepage_navbar_site_title_color .customize-control-title,
+#customize-control-homepage_header_displays .customize-control-title,
+#customize-control-homepage_header_scroll_down_arrow_link .customize-control-title,
+#customize-control-homepage_header_image_button_1_url .customize-control-title,
+#customize-control-homepage_header_image_button_2_url .customize-control-title,
+#customize-control-homepage_header_image .customize-control-title,
+#customize-control-homepage_header_image_background_attachment .customize-control-title,
+#customize-control-homepage_header_image_background_position .customize-control-title,
+#customize-control-homepage_header_image_background_size .customize-control-title,
+#customize-control-homepage_header_image_background_repeat .customize-control-title,
+#customize-control-homepage_header_image_background_image_opacity .customize-control-title,
+#customize-control-homepage_header_image_overlay_color .customize-control-title,
+#customize-control-homepage_header_image_overlay_color_opacity .customize-control-title,
+#customize-control-homepage_header_image_blend_mode .customize-control-title { 
+	font-weight: normal;
+}
+
+#customize-control-homepage_site_logo .customize-control-title,
+#customize-control-site_logo_icon .customize-control-title,
+#customize-control-sticky_homepage_navbar_logo .customize-control-title,
+#customize-control-homepage_header_position .customize-control-title,
+#customize-control-homepage_header_height .customize-control-title,
+#customize-control-homepage_header_image_title .customize-control-title,
+#customize-control-homepage_header_image_text .customize-control-title,
+#customize-control-homepage_header_image_button_1_text .customize-control-title,
+#customize-control-homepage_header_image_button_2_text .customize-control-title,
+#customize-control-homepage_header_image_background_color .customize-control-title,
+#customize-control-homepage_header_image .customize-control-title, 
+#customize-control-homepage_header_image_background_image .customize-control-title, 
+#customize-control-homepage_header_image_heading_color .customize-control-title, 
+#customize-control-homepage_header_image_font_color .customize-control-title {
+	display: none;	
+}
+
+#customize-control-homepage_site_logo_size,
+#customize-control-homepage_site_logo_icon_size,
+#customize-control-homepage_site_title_size,
+#customize-control-homepage_header_position,
+#customize-control-homepage_header_height,
+#customize-control-homepage_header_image_background_image_opacity,
+#customize-control-homepage_header_image_overlay_color_opacity {
+	margin-bottom: 0;
+}
+
+#customize-control-homepage_site_logo_size input,
+#customize-control-homepage_site_logo_icon_size input,
+#customize-control-homepage_site_title_size input,
+#customize-control-homepage_header_position,
+#customize-control-homepage_header_height,
+#customize-control-homepage_header_image_background_image_opacity input,
+#customize-control-homepage_header_image_overlay_color_opacity input,
+#customize-control-homepage_header_top_padding input,
+#customize-control-homepage_header_bottom_padding input  {
+	margin-top: -3px;	
+}
+
+#customize-control-homepage_header_image_text .wp-switch-editor {
+	margin-top: -28px;
+}
+
+#customize-control-display_homepage_header_carousel, 
+#customize-control-display_homepage_header_animation {
+	margin-bottom: 0;
+}
+
+#customize-control-display_homepage_header_carousel label,
+#customize-control-display_homepage_header_animation label,
+#_customize-input-display_homepage_header_carousel,
+#_customize-input-display_homepage_header_animation {
+	display: none;
+}
+
+#_customize-description-display_homepage_header_carousel, 
+#_customize-description-display_homepage_header_animation {
+	font-size: 14px;
+	font-weight: 600;
+	font-style: normal;
+}
+
+#_customize-description-display_homepage_header_carousel a,
+#_customize-description-display_homepage_header_animation a {
+	text-decoration: none;
+	font-variant: all-small-caps;
+	margin-left: 5px;
+}

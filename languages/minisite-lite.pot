@@ -1,0 +1,2868 @@
+# Copyright (C) 2020 Troy Templeman
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Minisite Lite 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/minisite-lite\n"
+"POT-Creation-Date: 2020-01-25 03:07:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:10
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:11
+msgid "Sorry, the requested page does not exist. It might have been removed, had its name changed or is temporarily unavailable."
+msgstr ""
+
+#: comments.php:16
+msgid "Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:13 inc/customizer/customizer.php:1427
+msgid "Colophon"
+msgstr ""
+
+#: footer.php:15
+msgid "Copyright &copy; "
+msgstr ""
+
+#: footer.php:20
+msgid "All rights reserved."
+msgstr ""
+
+#: footer.php:22 inc/customizer/customizer.php:1543
+#: inc/customizer/customizer.php:1669
+msgid "Admin"
+msgstr ""
+
+#: footer.php:23 inc/customizer/customizer.php:1555
+#: inc/customizer/customizer.php:1574
+msgid "Terms of Use"
+msgstr ""
+
+#: footer.php:24
+msgid "Close"
+msgstr ""
+
+#: footer.php:27 inc/customizer/customizer.php:1591
+#: inc/customizer/customizer.php:1609
+msgid "Privacy Policy"
+msgstr ""
+
+#: footer.php:29 inc/customizer/customizer.php:1626
+#: inc/customizer/customizer.php:1645
+msgid "Credits"
+msgstr ""
+
+#: footer.php:30 inc/customizer/customizer.php:1639
+msgid "<h3>Technical</h3><ul><li>Proudly powered by %1$s.</li><li>%2$s WordPress theme by %3$s, based on %4$s starter theme for WordPress.</li><li>Built with %5$s front-end framework.</li></ul><br><h3>Typography</h3><ul><li>%6$s by %7$s</li></ul><br><h3>Icons</h3><ul><li>%8$s</li><ul>"
+msgstr ""
+
+#: header.php:7 inc/homepage-sections/homepage-header-section/header.php:7
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:26 inc/homepage-sections/homepage-header-section/header.php:26
+#: searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: header.php:27 inc/homepage-sections/homepage-header-section/header.php:27
+msgid "Search:"
+msgstr ""
+
+#: header.php:40 inc/homepage-sections/homepage-header-section/header.php:40
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1544
+msgid "Scroll Down"
+msgstr ""
+
+#: inc/admin/inc/about.php:5 inc/admin/inc/features.php:12
+#: inc/admin/inc/features.php:13 inc/admin/inc/features.php:24
+#: inc/admin/inc/header.php:15
+msgid "Features"
+msgstr ""
+
+#: inc/admin/inc/about.php:7 inc/admin/inc/features.php:32
+msgid "Mobile Friendly"
+msgstr ""
+
+#: inc/admin/inc/about.php:8
+msgid "More than half of all web traffic in the world is displayed on mobile devices. To accommodate this, Minisite is optimized for mobile devices. It uses Responsive Web Design (RWD) to automatically reconfigure its layout to fit the screen size and shape of the device it's being viewed on, creating the optimum user experience whether it's phone, tablet, laptop or desktop."
+msgstr ""
+
+#: inc/admin/inc/about.php:9 inc/admin/inc/about.php:12
+#: inc/admin/inc/about.php:17 inc/admin/inc/about.php:27
+msgid "Learn More"
+msgstr ""
+
+#: inc/admin/inc/about.php:10 inc/admin/inc/features.php:36
+msgid "User Friendly Navigation"
+msgstr ""
+
+#: inc/admin/inc/about.php:11
+msgid "Minisite has a sticky navigation bar that sticks to the top of the browser window as the user scrolls down the page, allowing them to quickly access the navigation at anytime and easily jump to different sections. Also, when any on page link is clicked, Minisite smoothly scrolls to the link location, giving the user a sense of where they are on the page and where they are going."
+msgstr ""
+
+#: inc/admin/inc/about.php:15 inc/admin/inc/features.php:40
+msgid "Live Customizer"
+msgstr ""
+
+#: inc/admin/inc/about.php:16
+msgid "Minisite leverages and extends the native WordPress Theme Customizer, allowing you to easily customize the appearance of your site in a user friendly interface and preview changes live in real time before publishing. Minisite Pro has 15 custom sections to customize with over 1,500 options for content, images, menus, layout, typography, colour and more!"
+msgstr ""
+
+#: inc/admin/inc/about.php:18 inc/admin/inc/about.php:36
+msgid "More Features"
+msgstr ""
+
+#: inc/admin/inc/about.php:19 inc/admin/inc/features.php:44
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/admin/inc/about.php:20
+msgid "Minisite is built using Search Engine Optimization (SEO) best practices, helping increase the quantity and quality of organic search engine traffic to your site."
+msgstr ""
+
+#: inc/admin/inc/about.php:21 inc/admin/inc/features.php:48
+msgid "WooCommerce Support"
+msgstr ""
+
+#: inc/admin/inc/about.php:22
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/admin/inc/about.php:23
+msgid "Translation and RTL Ready"
+msgstr ""
+
+#: inc/admin/inc/about.php:25 inc/admin/inc/features.php:56
+#: inc/customizer/customizer.php:1951 inc/icon-fonts/icon-fonts.php:88
+msgid "Icon Fonts"
+msgstr ""
+
+#: inc/admin/inc/about.php:26
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/admin/inc/about.php:26
+msgid "IcoMoon"
+msgstr ""
+
+#: inc/admin/inc/about.php:28
+msgid "Pro Features"
+msgstr ""
+
+#: inc/admin/inc/about.php:30
+msgid "More Sections"
+msgstr ""
+
+#: inc/admin/inc/about.php:31
+msgid "<ul style=\"list-style:disc;padding-left:20px;\"><li>Notification Bar</li><li>Gallery Section</li><li>Testimonials Section</li><li>Pricing Section</li><li>FAQ Section</li><li>Newsletter Section</li><li>Logos Section</li><li>Map Section</li><li>Footer Section</li></ul>"
+msgstr ""
+
+#: inc/admin/inc/about.php:33
+msgid "More Section Controls"
+msgstr ""
+
+#: inc/admin/inc/about.php:34
+msgid "<ul style=\"list-style:disc;padding-left:20px;\"><li>Font Colours</li><li>Heading Colors</li><li>Background Colors</li><li>Background Images</li><li>Background Overlays</li><li>Padding</li><li>Parallax Effects</li><li>Animations<Le/li><li> Widgets</li></ul>"
+msgstr ""
+
+#: inc/admin/inc/about.php:37
+msgid "<ul style=\"list-style:disc;padding-left:20px;\"><li>Section Ordering & Visibility</li><li>Section Styling</li><li>Section Widgets</li><li>Header Carousel</li><li>Social Sharing</li><li>Typography</li><li>Animations & Parallax Effects</li><li>Minify & Concatenate</li><li>Support</li></ul>"
+msgstr ""
+
+#: inc/admin/inc/about.php:38
+msgid "Upgrade"
+msgstr ""
+
+#: inc/admin/inc/about.php:39
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/inc/features.php:23
+msgid "Minisite offers three versions to choose from to fit your budget and functionality requirements:"
+msgstr ""
+
+#: inc/admin/inc/features.php:25
+msgid "Minisite Lite"
+msgstr ""
+
+#: inc/admin/inc/features.php:26
+msgid "Minisite Plus"
+msgstr ""
+
+#: inc/admin/inc/features.php:27
+msgid "Minisite Pro"
+msgstr ""
+
+#: inc/admin/inc/features.php:28
+msgid "Standard Features"
+msgstr ""
+
+#: inc/admin/inc/features.php:33 inc/admin/inc/features.php:34
+#: inc/admin/inc/features.php:35 inc/admin/inc/features.php:37
+#: inc/admin/inc/features.php:38 inc/admin/inc/features.php:39
+#: inc/admin/inc/features.php:41 inc/admin/inc/features.php:42
+#: inc/admin/inc/features.php:43 inc/admin/inc/features.php:45
+#: inc/admin/inc/features.php:46 inc/admin/inc/features.php:47
+#: inc/admin/inc/features.php:49 inc/admin/inc/features.php:50
+#: inc/admin/inc/features.php:51 inc/admin/inc/features.php:53
+#: inc/admin/inc/features.php:54 inc/admin/inc/features.php:55
+#: inc/admin/inc/features.php:57 inc/admin/inc/features.php:58
+#: inc/admin/inc/features.php:59 inc/admin/inc/features.php:61
+#: inc/admin/inc/features.php:62 inc/admin/inc/features.php:63
+#: inc/admin/inc/features.php:69 inc/admin/inc/features.php:70
+#: inc/admin/inc/features.php:71 inc/admin/inc/features.php:73
+#: inc/admin/inc/features.php:74 inc/admin/inc/features.php:75
+#: inc/admin/inc/features.php:77 inc/admin/inc/features.php:78
+#: inc/admin/inc/features.php:79 inc/admin/inc/features.php:81
+#: inc/admin/inc/features.php:82 inc/admin/inc/features.php:83
+#: inc/admin/inc/features.php:85 inc/admin/inc/features.php:86
+#: inc/admin/inc/features.php:87 inc/admin/inc/features.php:89
+#: inc/admin/inc/features.php:90 inc/admin/inc/features.php:91
+#: inc/admin/inc/features.php:93 inc/admin/inc/features.php:94
+#: inc/admin/inc/features.php:95 inc/admin/inc/features.php:97
+#: inc/admin/inc/features.php:98 inc/admin/inc/features.php:99
+#: inc/admin/inc/features.php:101 inc/admin/inc/features.php:102
+#: inc/admin/inc/features.php:103 inc/admin/inc/features.php:106
+#: inc/admin/inc/features.php:107 inc/admin/inc/features.php:110
+#: inc/admin/inc/features.php:111 inc/admin/inc/features.php:114
+#: inc/admin/inc/features.php:115 inc/admin/inc/features.php:118
+#: inc/admin/inc/features.php:119 inc/admin/inc/features.php:122
+#: inc/admin/inc/features.php:123 inc/admin/inc/features.php:126
+#: inc/admin/inc/features.php:127 inc/admin/inc/features.php:130
+#: inc/admin/inc/features.php:131 inc/admin/inc/features.php:134
+#: inc/admin/inc/features.php:135 inc/admin/inc/features.php:138
+#: inc/admin/inc/features.php:139 inc/admin/inc/features.php:142
+#: inc/admin/inc/features.php:143 inc/admin/inc/features.php:146
+#: inc/admin/inc/features.php:147 inc/admin/inc/features.php:154
+#: inc/admin/inc/features.php:155 inc/admin/inc/features.php:158
+#: inc/admin/inc/features.php:159 inc/admin/inc/features.php:162
+#: inc/admin/inc/features.php:163 inc/admin/inc/features.php:166
+#: inc/admin/inc/features.php:167 inc/admin/inc/features.php:170
+#: inc/admin/inc/features.php:171 inc/admin/inc/features.php:174
+#: inc/admin/inc/features.php:175 inc/admin/inc/features.php:178
+#: inc/admin/inc/features.php:179 inc/admin/inc/features.php:182
+#: inc/admin/inc/features.php:183 inc/admin/inc/features.php:186
+#: inc/admin/inc/features.php:187
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/inc/features.php:52
+msgid "Translation & RTL Ready"
+msgstr ""
+
+#: inc/admin/inc/features.php:60
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/inc/features.php:64
+msgid "Sections"
+msgstr ""
+
+#: inc/admin/inc/features.php:68
+msgid "Header Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:72
+msgid "About Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:76
+msgid "Facts Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:80
+msgid "Services Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:84
+msgid "Team Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:88
+msgid "News Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:92
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:96
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:200
+msgid "Contact Form"
+msgstr ""
+
+#: inc/admin/inc/features.php:100
+msgid "Google Map"
+msgstr ""
+
+#: inc/admin/inc/features.php:104 inc/customizer/customizer.php:1992
+#: inc/customizer/inc/pro-sections/pro-sections.php:228
+msgid "Notification Bar"
+msgstr ""
+
+#: inc/admin/inc/features.php:105 inc/admin/inc/features.php:109
+#: inc/admin/inc/features.php:113 inc/admin/inc/features.php:117
+#: inc/admin/inc/features.php:121 inc/admin/inc/features.php:125
+#: inc/admin/inc/features.php:129 inc/admin/inc/features.php:133
+#: inc/admin/inc/features.php:137 inc/admin/inc/features.php:141
+#: inc/admin/inc/features.php:145 inc/admin/inc/features.php:153
+#: inc/admin/inc/features.php:157 inc/admin/inc/features.php:161
+#: inc/admin/inc/features.php:165 inc/admin/inc/features.php:169
+#: inc/admin/inc/features.php:173 inc/admin/inc/features.php:177
+#: inc/admin/inc/features.php:181 inc/admin/inc/features.php:185
+msgid "No"
+msgstr ""
+
+#: inc/admin/inc/features.php:108
+msgid "Gallery Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:112
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:116 inc/admin/inc/features.php:128
+msgid "Pricing Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:120 inc/admin/inc/features.php:132
+msgid "FAQ Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:124
+msgid "Newsletter Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:136
+msgid "Newsletter Sign Up"
+msgstr ""
+
+#: inc/admin/inc/features.php:140
+msgid "Logos Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:144 inc/customizer/customizer.php:1734
+msgid "Footer Section"
+msgstr ""
+
+#: inc/admin/inc/features.php:148
+msgid "Other Features"
+msgstr ""
+
+#: inc/admin/inc/features.php:152 inc/customizer/customizer.php:1313
+msgid "Section Ordering & Visibility"
+msgstr ""
+
+#: inc/admin/inc/features.php:156
+msgid "Section Styling"
+msgstr ""
+
+#: inc/admin/inc/features.php:160
+msgid "Section Widgets"
+msgstr ""
+
+#: inc/admin/inc/features.php:164
+msgid "Header Carousel"
+msgstr ""
+
+#: inc/admin/inc/features.php:168 inc/customizer/customizer.php:2044
+#: inc/customizer/inc/pro-sections/pro-sections.php:241
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/admin/inc/features.php:172 inc/customizer/customizer.php:2056
+#: inc/customizer/inc/pro-sections/pro-sections.php:254
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/inc/features.php:176
+msgid "Animations & Parallax Effects"
+msgstr ""
+
+#: inc/admin/inc/features.php:180
+msgid "Minify & Concatenate"
+msgstr ""
+
+#: inc/admin/inc/features.php:184 inc/admin/inc/help.php:28
+msgid "Support"
+msgstr ""
+
+#: inc/admin/inc/features.php:188 woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: inc/admin/inc/features.php:189
+msgid "FREE"
+msgstr ""
+
+#: inc/admin/inc/features.php:190
+msgid "US $45"
+msgstr ""
+
+#: inc/admin/inc/features.php:191
+msgid "US $95"
+msgstr ""
+
+#: inc/admin/inc/features.php:192
+msgid "Licensing"
+msgstr ""
+
+#: inc/admin/inc/features.php:193 inc/admin/inc/features.php:195
+msgid "Unlimited sites"
+msgstr ""
+
+#: inc/admin/inc/features.php:194
+msgid "1 site"
+msgstr ""
+
+#: inc/admin/inc/features.php:197
+msgid "Download"
+msgstr ""
+
+#: inc/admin/inc/features.php:198 inc/admin/inc/features.php:199
+msgid "Buy Now"
+msgstr ""
+
+#: inc/admin/inc/header.php:13
+#: inc/customizer/inc/pro-sections/pro-sections.php:150
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:84
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:126
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:533
+msgid "About"
+msgstr ""
+
+#: inc/admin/inc/header.php:17 inc/admin/inc/help.php:12
+#: inc/admin/inc/help.php:13
+msgid "Help"
+msgstr ""
+
+#: inc/admin/inc/help.php:24
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/inc/help.php:25 inc/admin/inc/help.php:29
+msgid "documentation"
+msgstr ""
+
+#: inc/admin/inc/help.php:26
+msgid "View Documentation"
+msgstr ""
+
+#: inc/admin/inc/help.php:29
+msgid "support forum"
+msgstr ""
+
+#: inc/admin/inc/help.php:29
+msgid "submit a ticket"
+msgstr ""
+
+#: inc/admin/inc/help.php:30
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/create-child-theme.php:13
+#: inc/admin/inc/theme-setup/create-child-theme.php:14
+#: inc/admin/inc/theme-setup/create-child-theme.php:24
+#: inc/admin/inc/theme-setup/create-child-theme.php:55
+msgid "Create Child Theme"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/create-child-theme.php:25
+msgid "A child theme is already created but you can reset it below if you wish."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/create-child-theme.php:26
+msgid "Child themes inherit the functionality and styling of a parent theme. This allows you to make changes, without editing the parent theme, so that the parent theme can be updated without overwriting your changes."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/create-child-theme.php:28
+msgid "Learn more about child themes"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/create-child-theme.php:29
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:659
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:745
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2938
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:92
+#: inc/admin/inc/theme-setup/set-homepage.php:26
+msgid "Next"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/create-child-theme.php:53
+msgid "Reset Child Theme"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-customizer-importer.php:36
+msgid "The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-customizer-importer.php:56
+msgid "The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-customizer-importer.php:62
+msgid "The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:70
+msgid "\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:176
+msgid "URL for %s%s%s file is not defined!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:198
+msgid "An error occurred while fetching %s%s%s file from the server!%sReason: %s - %s."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:238
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:282
+msgid "An error occurred while writing file to your server! Tried to write a file to: %s%s."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:317
+msgid "An error occurred while reading a file from your server! Tried reading file from path: %s%s."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:341
+msgid "This WordPress page does not have %sdirect%s write file access. This plugin needs it in order to save the demo import xml file to the upload directory of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:352
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:84
+msgid "Theme Demo Import"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:353
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:365
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:373
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:438
+msgid "Theme Demo Import - "
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:474
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:510
+msgid "Please upload XML file for content import. If you want to import widgets or customizer settings only, please use Widget Importer & Exporter or the Customizer Export/Import plugin."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:512
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:534
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:553
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:561
+msgid "Upload files"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:530
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:549
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:559
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:577
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:581
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:585
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-helpers.php:586
+msgid "not defined!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:85
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:231
+msgid "Import Demo Content"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:105
+msgid "Import Demo"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:106
+#: inc/admin/inc/theme-setup/theme-setup.php:29
+msgid "demo site"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:107
+msgid "View demo site"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:122
+msgid "%sWarning: your server is using %sPHP safe mode%s. This means that you might experience server timeout errors.%s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:152
+msgid "There are no predefined import files available in this theme. Please upload the import files manually!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:157
+msgid "Manually upload the demo files"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:160
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:165
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:165
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:170
+msgid "(*optional)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:170
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:180
+msgid "Choose which demo you want to import:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:205
+msgid "Import preview:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:209
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:269
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:235
+msgid "Importing...please wait!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:326
+msgid "Manually uploaded files"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:343
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:354
+msgid "Downloaded files"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:350
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:360
+msgid "No import files specified!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:407
+msgid "Import complete!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:418
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:472
+msgid "Max execution time after content import = "
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:474
+msgid "Importing content"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:513
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:525
+msgid "Importing widgets"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:547
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:555
+msgid "Importing customizer settings"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:553
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-main.php:605
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:44
+msgid "Widget import file could not be found."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:116
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:138
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:173
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:232
+msgid "Imported"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:236
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:242
+msgid "No Title"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/class-tdi-widget-importer.php:291
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:166
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:282
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:355
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:504
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:753
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:763
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:841
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:855
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:887
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1705
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:892
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1036
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1519
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1540
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1544
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1681
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1710
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1763
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1776
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1781
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1787
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1809
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1822
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1827
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1841
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1846
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1872
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1883
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1928
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1933
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1955
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1959
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1973
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1977
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/inc/importer/class-wxr-importer.php:1994
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/import-demo/theme-demo-import.php:29
+msgid "The %2$sTheme Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:328
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:655
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:658
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:740
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:744
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2931
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2937
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:33
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:34
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:330
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:36
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:332
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:38
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:333
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:39
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:370
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:76
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:375
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:81
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:380
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:86
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:386
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:872
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3684
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:387
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3233
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:93
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:388
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3026
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:94
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:390
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:96
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:392
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:98
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:394
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:100
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:395
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:101
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:396
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:102
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:397
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:103
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:656
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:741
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2932
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:657
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:742
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2933
+msgid "Learn more about plugins"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:985
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:985
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:988
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:988
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:1173
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3022
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2325
+msgid "Required"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2328
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2344
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2347
+msgid "External Source"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2350
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2367
+msgid "Not Installed"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2371
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2373
+msgid "Active"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2379
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2382
+msgid "Requires Update"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2385
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2394
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2440
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2444
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2448
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2452
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2534
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2542
+msgid "Installed version:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2550
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2562
+msgid "Available version:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2585
+msgid "There are no plugins to install, update or activate."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2599
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2600
+msgid "Source"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2601
+msgid "Type"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2605
+msgid "Version"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2606
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2655
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2660
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2666
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2736
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2769
+msgid "Install"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2775
+msgid "Update"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2778
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2809
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2811
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2852
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2854
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:2982
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3008
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3232
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3602
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3605
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3607
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3611
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3613
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3621
+msgid "%1$s done."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3614
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3616
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3619
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3622
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/admin/inc/theme-setup/install-plugins/class-tgm-plugin-activation.php:3624
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/install-plugins/install-plugins.php:91
+msgid "Back"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/set-homepage.php:10
+#: inc/admin/inc/theme-setup/set-homepage.php:11
+#: inc/admin/inc/theme-setup/set-homepage.php:22
+#: inc/admin/inc/theme-setup/set-homepage.php:25
+msgid "Set Homepage"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/set-homepage.php:23
+msgid "Reading Settings"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/set-homepage.php:24
+msgid "Learn more about homepages"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/set-homepage.php:64
+msgid "Homepage set!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:13
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:14
+msgid "Theme Setup Complete"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:24
+msgid "Setup Complete"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:25
+msgid "Congratulations, your theme has been setup and is ready to use!"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:26
+msgid "First Steps with WordPress"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:26
+msgid "WordPress Dashboard"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:26
+msgid "WordPress Support"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:27
+msgid "Customize Your Site"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup-complete.php:28
+msgid "View Your Site"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup.php:17
+#: inc/admin/inc/theme-setup/theme-setup.php:18
+#: inc/customizer/inc/pro-sections/pro-sections.php:47
+msgid "Minisite"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup.php:28
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup.php:30
+msgid "Learn more about themes"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup.php:31
+msgid "Start Setup"
+msgstr ""
+
+#: inc/admin/inc/theme-setup/theme-setup.php:32
+msgid "Exit Setup"
+msgstr ""
+
+#: inc/bootstrap-navwalker/bootstrap-navwalker.php:367
+msgid "Add a menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:19 inc/customizer/customizer.php:583
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:82
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:507
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:667
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1501
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:27
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:94
+msgid "Navbar"
+msgstr ""
+
+#: inc/customizer/customizer.php:46 inc/customizer/customizer.php:67
+#: inc/customizer/inc/pro-sections/pro-sections.php:189
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:112
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:134
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:88
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:153
+msgid "Logo Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:108 inc/customizer/customizer.php:127
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:297
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:395
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:493
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:591
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:172
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:314
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:382
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:450
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:518
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:586
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:654
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:380
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:429
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:478
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:670
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:719
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:768
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:961
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1010
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1059
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1253
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1302
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1351
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:144
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:194
+msgid "Icon Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:160
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:209
+msgid "Icon Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:183
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:228
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:209
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:250
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:225
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:265
+msgid "Site Title Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:245
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:271
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/customizer.php:291
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:312
+msgid "Display Hamburger Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:335
+msgid "Full Width Navbar"
+msgstr ""
+
+#: inc/customizer/customizer.php:348
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:284
+msgid "Navbar Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:369
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:304
+msgid "Navbar Font Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:387
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:321
+msgid "Navbar Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:413
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:346
+msgid "Sticky Navbar"
+msgstr ""
+
+#: inc/customizer/customizer.php:445 inc/customizer/customizer.php:465
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:376
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:395
+msgid "Sticky Navbar Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:485
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:414
+msgid "Sticky Navbar Icon Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:501
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:429
+msgid "Sticky Navbar Site Title Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:516
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:443
+msgid "Sticky Navbar Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:541
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:482
+msgid "Sticky Navbar Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:568
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:465
+msgid "Sticky Navbar Font Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:602
+msgid "Header Displays"
+msgstr ""
+
+#: inc/customizer/customizer.php:634 inc/customizer/customizer.php:655
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:113
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:130
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:113
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:130
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:114
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:131
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:115
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:132
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:326
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:424
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:522
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:620
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:654
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:672
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:115
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:132
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:115
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:132
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:330
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:398
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:466
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:534
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:602
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:670
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:114
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:131
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:272
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:292
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:564
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:584
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:854
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:874
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1145
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1165
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:673 inc/customizer/customizer.php:695
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:163
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:182
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:218
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:163
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:182
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:164
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:183
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:165
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:184
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:359
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:457
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:555
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:653
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:689
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:708
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:165
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:184
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:165
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:184
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:346
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:414
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:482
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:550
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:618
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:686
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:184
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:306
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:327
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:598
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:619
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:888
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:910
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1179
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1202
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:713
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:525
+msgid "Header Height"
+msgstr ""
+
+#: inc/customizer/customizer.php:732
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:543
+msgid "Header Height (px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:752 inc/customizer/customizer.php:771
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:562
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:580
+msgid "Header Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:791
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:599
+msgid "Full Screen Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:811
+msgid "Header Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:831 inc/customizer/customizer.php:852
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:839
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:859
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:867 inc/customizer/customizer.php:888
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:873
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:893
+msgid "Font Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:903
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:923 inc/customizer/customizer.php:944
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:959
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:988
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:995
+msgid "Background Image Attachment"
+msgstr ""
+
+#: inc/customizer/customizer.php:1011
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1017
+msgid "Background Image Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:1040
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1045
+msgid "Background Image Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:1063
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1067
+msgid "Background Image Repeat"
+msgstr ""
+
+#: inc/customizer/customizer.php:1089
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1092
+msgid "Background Image Opacity"
+msgstr ""
+
+#: inc/customizer/customizer.php:1110
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1112
+msgid "Background Image Overlay Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:1126
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1127
+msgid "Background Image Overlay Color Opacity"
+msgstr ""
+
+#: inc/customizer/customizer.php:1147
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1147
+msgid "Background Image Blend Mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:1174 inc/customizer/customizer.php:1374
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:439
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:319
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:306
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:743
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1173
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:564
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:776
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1439
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/customizer.php:1195
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1193
+msgid "Top Padding"
+msgstr ""
+
+#: inc/customizer/customizer.php:1216
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1213
+msgid "Bottom Padding"
+msgstr ""
+
+#: inc/customizer/customizer.php:1236
+msgid "Site Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:1252
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer/customizer.php:1258
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1271
+msgid "Homepage displays"
+msgstr ""
+
+#: inc/customizer/customizer.php:1275
+msgid "Your latest posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:1276
+msgid "A static page"
+msgstr ""
+
+#: inc/customizer/customizer.php:1288
+msgid "Front page"
+msgstr ""
+
+#: inc/customizer/customizer.php:1301
+msgid "Posts page"
+msgstr ""
+
+#: inc/customizer/customizer.php:1314 inc/customizer/customizer.php:1351
+#: inc/customizer/customizer.php:1363 inc/customizer/customizer.php:1375
+#: inc/customizer/customizer.php:1387 inc/customizer/customizer.php:1735
+#: inc/customizer/customizer.php:1813 inc/customizer/customizer.php:1826
+#: inc/customizer/customizer.php:1851 inc/customizer/customizer.php:1889
+#: inc/customizer/customizer.php:1902 inc/customizer/customizer.php:1939
+#: inc/customizer/customizer.php:1970 inc/customizer/customizer.php:1993
+#: inc/customizer/customizer.php:2045 inc/customizer/customizer.php:2057
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:414
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:427
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:440
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:453
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:466
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:294
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:307
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:320
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:333
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:346
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:281
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:307
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:320
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:333
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:718
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:731
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:744
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:757
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:770
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1233
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1246
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:751
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:764
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:777
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:790
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:803
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1414
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1427
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1440
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1453
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1466
+msgid "https://www.getminisites.com/theme/"
+msgstr ""
+
+#: inc/customizer/customizer.php:1322 inc/functions/widgets.php:21
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:1328
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:1339
+msgid "Display Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:1350 inc/customizer/customizer.php:1698
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:413
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:293
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:280
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:717
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:819
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:538
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:750
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1413
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:1362 inc/customizer/customizer.php:1680
+#: inc/customizer/customizer.php:2070
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:426
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:306
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:293
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:730
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:907
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:551
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:763
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1426
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:1386
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:452
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:332
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:319
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:756
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1245
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:577
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:789
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1452
+msgid "Animation"
+msgstr ""
+
+#: inc/customizer/customizer.php:1394
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/customizer.php:1403
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:465
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:345
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:332
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:769
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:590
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:802
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1465
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer/customizer.php:1409
+msgid "Separator"
+msgstr ""
+
+#: inc/customizer/customizer.php:1420
+msgid "Display Separator"
+msgstr ""
+
+#: inc/customizer/customizer.php:1438
+msgid "Display Colophon"
+msgstr ""
+
+#: inc/customizer/customizer.php:1456
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:1475 inc/customizer/customizer.php:1495
+msgid "Copyright Owner"
+msgstr ""
+
+#: inc/customizer/customizer.php:1509 inc/customizer/customizer.php:1529
+msgid "Copyright Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:1658
+msgid "Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:1659
+msgid "For these options to take effect, please click the <strong>Publish</strong> button and <strong>Reload</strong> your browser."
+msgstr ""
+
+#: inc/customizer/customizer.php:1716 inc/customizer/customizer.php:2113
+msgid "CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:1746
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:1764
+msgid "Homepage About Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1776
+msgid "Homepage Call to Action Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1788
+msgid "Homepage Contact Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1800
+msgid "Homepage Facts Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1812
+msgid "Homepage FAQ Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1825
+msgid "Homepage Gallery Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1838
+msgid "Homepage Header Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1850
+msgid "Homepage Logos Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1864
+msgid "Homepage Map Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1876
+msgid "Homepage News Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1888
+msgid "Homepage Newsletter Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1901
+msgid "Homepage Pricing Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1914
+msgid "Homepage Services Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1926
+msgid "Homepage Team Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1938
+msgid "Homepage Testimonials Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:1969
+#: inc/customizer/inc/pro-sections/pro-sections.php:215
+msgid "Minify"
+msgstr ""
+
+#: inc/customizer/customizer.php:1981
+msgid "Navbar Scroll"
+msgstr ""
+
+#: inc/customizer/customizer.php:2004
+msgid "Right to Left Language"
+msgstr ""
+
+#: inc/customizer/customizer.php:2015
+msgid "Search Collapse"
+msgstr ""
+
+#: inc/customizer/customizer.php:2026 inc/smooth-scroll/smooth-scroll.php:79
+msgid "Smooth Scroll"
+msgstr ""
+
+#: inc/customizer/customizer.php:2064 inc/icon-fonts/icon-fonts.php:82
+#: inc/smooth-scroll/smooth-scroll.php:73
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:2089 inc/customizer/customizer.php:2106
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/inc/custom-controls/custom-controls.php:340
+msgid "Add"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:48
+#: inc/customizer/inc/pro-sections/pro-sections.php:60
+#: inc/customizer/inc/pro-sections/pro-sections.php:73
+#: inc/customizer/inc/pro-sections/pro-sections.php:86
+#: inc/customizer/inc/pro-sections/pro-sections.php:99
+#: inc/customizer/inc/pro-sections/pro-sections.php:112
+#: inc/customizer/inc/pro-sections/pro-sections.php:125
+#: inc/customizer/inc/pro-sections/pro-sections.php:138
+#: inc/customizer/inc/pro-sections/pro-sections.php:151
+#: inc/customizer/inc/pro-sections/pro-sections.php:164
+#: inc/customizer/inc/pro-sections/pro-sections.php:177
+#: inc/customizer/inc/pro-sections/pro-sections.php:190
+#: inc/customizer/inc/pro-sections/pro-sections.php:203
+#: inc/customizer/inc/pro-sections/pro-sections.php:216
+#: inc/customizer/inc/pro-sections/pro-sections.php:229
+#: inc/customizer/inc/pro-sections/pro-sections.php:242
+#: inc/customizer/inc/pro-sections/pro-sections.php:255
+msgid "Pro"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:59
+msgid "Gallery"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:72
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:85
+msgid "Pricing"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:98
+msgid "FAQ"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:111
+#: inc/customizer/inc/pro-sections/pro-sections.php:176
+msgid "Newsletter"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:124
+msgid "Logos"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:137
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:85
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:127
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:405
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:163
+msgid "Hours"
+msgstr ""
+
+#: inc/customizer/inc/pro-sections/pro-sections.php:202
+msgid "Social Media"
+msgstr ""
+
+#: inc/functions/setup.php:31
+msgid "Primary Menu"
+msgstr ""
+
+#. translators: %s: post date.
+
+#: inc/functions/template-tags.php:24
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+
+#: inc/functions/template-tags.php:39
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/functions/template-tags.php:55
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+
+#: inc/functions/template-tags.php:58
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/functions/template-tags.php:62
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+
+#: inc/functions/template-tags.php:65
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/functions/template-tags.php:75
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: inc/functions/template-tags.php:92 template-parts/content-page.php:19
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/functions/widgets.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: inc/functions/widgets.php:12
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:58
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:63
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:58
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:63
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:58
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:63
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:58
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:63
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:58
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:63
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:58
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:63
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:58
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:63
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:58
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:63
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:58
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:63
+#: inc/icon-fonts/icon-fonts.php:59 inc/icon-fonts/icon-fonts.php:64
+#: inc/smooth-scroll/smooth-scroll.php:49
+#: inc/smooth-scroll/smooth-scroll.php:54
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:95
+msgid "Display About"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:143
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:534
+msgid "about"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:148
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:148
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:149
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:150
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:150
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:150
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:149
+msgid "Slug"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:149
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:149
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:150
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:151
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:151
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:151
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:150
+msgid "<strong>Permalink: </strong>"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:199
+msgid "About 1"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:235
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:250
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:366
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:379
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:541
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:548
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:212
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:259
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:419
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:422
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:233
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:246
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:413
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:670
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:683
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:912
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:738
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:785
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1506
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1509
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:491
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:504
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:700
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:703
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:716
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:942
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1366
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1379
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1614
+msgid "Button"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:255
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:384
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:217
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:264
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:251
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:688
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:743
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:790
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:509
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:721
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1384
+msgid "Button Text"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:270
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:399
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:232
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:279
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:266
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:703
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:758
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:805
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:524
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:736
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:365
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:415
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:464
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:656
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:705
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:754
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:947
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:996
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1045
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1239
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1288
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1337
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1399
+msgid "URL"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:284
+msgid "About 2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:303
+msgid "Block 2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:336
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:220
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:239
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:512
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:531
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:802
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:821
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1093
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1112
+msgid "Image"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:351
+msgid "YouTube Embed Code"
+msgstr ""
+
+#: inc/homepage-sections/homepage-about-section/homepage-about-section.php:352
+msgid "http://www.youtube.com/"
+msgstr ""
+
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:84
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:126
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:413
+msgid "Call to Action"
+msgstr ""
+
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:95
+msgid "Display Call to Action"
+msgstr ""
+
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:143
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:414
+msgid "call-to-action"
+msgstr ""
+
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:199
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:725
+msgid "Button 1"
+msgstr ""
+
+#: inc/homepage-sections/homepage-call-to-action-section/homepage-call-to-action-section.php:246
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:772
+msgid "Button 2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:96
+msgid "Display Contact"
+msgstr ""
+
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:144
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:406
+msgid "contact"
+msgstr ""
+
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:213
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:410
+msgid "Contact Form 7 shortcode"
+msgstr ""
+
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:218
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: inc/homepage-sections/homepage-contact-section/homepage-contact-section.php:294
+msgid "https://www.getminisite-lites.com/theme/"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:86
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:128
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:879
+msgid "Facts"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:97
+msgid "Display Facts"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:145
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:880
+msgid "facts"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:201
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:201
+msgid "Icons"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:221
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:221
+msgid "Position"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:240
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:240
+msgid "Size"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:260
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:259
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:277
+msgid "Alignment"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:278
+msgid "Fact 1"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:312
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:410
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:508
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:606
+msgid "Prefix"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:343
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:441
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:539
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:637
+msgid "Suffix"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:376
+msgid "Fact 2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:474
+msgid "Fact 3"
+msgstr ""
+
+#: inc/homepage-sections/homepage-facts-section/homepage-facts-section.php:572
+msgid "Fact 4"
+msgstr ""
+
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:618
+msgid "Scroll Down Arrow"
+msgstr ""
+
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:638
+msgid "Scroll Down Arrow Link"
+msgstr ""
+
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:926
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:946
+msgid "Background Color"
+msgstr ""
+
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:960
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:980
+msgid "Background Image"
+msgstr ""
+
+#: inc/homepage-sections/homepage-header-section/homepage-header-section.php:1232
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:246
+msgid "Carousel"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:83
+msgid "Map"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:84
+msgid "To change the location of the marker on the map, edit the information below, click <Strong>Publish</strong> and refresh the page to see the new location."
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:95
+msgid "Display Map"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:109
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:239
+msgid "Cabot Tower"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:114
+msgid "Map Title"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:122
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:234
+msgid "250 Signal Hill Road"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:127
+msgid "Address"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:135
+msgid "St. Johns"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:140
+msgid "City / Town"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:148
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:236
+msgid "NL"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:153
+msgid "State / Province"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:161
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:237
+msgid "Canada"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:166
+msgid "Country"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:174
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:238
+msgid "A1A 1B2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:179
+msgid "Zip / Postal Code"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:192
+msgid "Zoom Level"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:235
+msgid "St. John&#8217;s"
+msgstr ""
+
+#: inc/homepage-sections/homepage-map-section/homepage-map-section.php:240
+msgid "14"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:86
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:128
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:671
+msgid "News"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:97
+msgid "Display News"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:145
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:672
+msgid "news"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:201
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:218
+msgid "News Items"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:232
+msgid "Word Count"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:267
+msgid "Slides to Show"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:281
+msgid "Slides to Scroll"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:295
+msgid "Speed"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:309
+msgid "Arrows"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:327
+msgid "Dots"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:345
+msgid "Autoplay"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:363
+msgid "Autoplay Speed"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:377
+msgid "Center Mode"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:395
+msgid "Draggable"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:413
+msgid "Fade"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:431
+msgid "Infinite Looping"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:449
+msgid "Initial Slide"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:463
+msgid "Rows"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:477
+msgid "Slides per Row"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:750
+msgid "Posted"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:752
+msgid "by"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:755
+msgid "in"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:766
+msgid "Read More"
+msgstr ""
+
+#: inc/homepage-sections/homepage-news-section/homepage-news-section.php:774
+msgid "Not Found"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:86
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:128
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:909
+msgid "Services"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:97
+msgid "Display Services"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:145
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:910
+msgid "services"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:295
+msgid "Service 1"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:363
+msgid "Service 2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:431
+msgid "Service 3"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:499
+msgid "Service 4"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:567
+msgid "Service 5"
+msgstr ""
+
+#: inc/homepage-sections/homepage-services-section/homepage-services-section.php:635
+msgid "Service 6"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:85
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:127
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1539
+msgid "Team"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:96
+msgid "Display Team"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:144
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1540
+msgid "team"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:164
+msgid "Text "
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:201
+msgid "Bio 1"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:258
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:550
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:840
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1131
+msgid "Name"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:345
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:636
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:927
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1219
+msgid "Link 1"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:395
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:685
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:976
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1268
+msgid "Link 2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:444
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:734
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1025
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1317
+msgid "Link 3"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:493
+msgid "Bio 2"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:783
+msgid "Bio 3"
+msgstr ""
+
+#: inc/homepage-sections/homepage-team-section/homepage-team-section.php:1074
+msgid "Bio 4"
+msgstr ""
+
+#: inc/icon-fonts/icon-fonts.php:103
+msgid "Activate Icon Fonts"
+msgstr ""
+
+#: inc/smooth-scroll/smooth-scroll.php:94
+msgid "Activate Smooth Scroll"
+msgstr ""
+
+#: inc/smooth-scroll/smooth-scroll.php:108
+#: inc/smooth-scroll/smooth-scroll.php:162
+msgid "0"
+msgstr ""
+
+#: inc/smooth-scroll/smooth-scroll.php:112
+msgid "Offset (pixels)"
+msgstr ""
+
+#: inc/smooth-scroll/smooth-scroll.php:120
+#: inc/smooth-scroll/smooth-scroll.php:163
+msgid "500"
+msgstr ""
+
+#: inc/smooth-scroll/smooth-scroll.php:124
+msgid "Scroll Speed (ms)"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for %s"
+msgstr ""
+
+#: template-parts/content-none.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:13 template-parts/content.php:22
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:21
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: woocommerce/cart/cart-totals-.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals-.php:30 woocommerce/cart/cart-totals-.php:31
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals-.php:52 woocommerce/cart/cart-totals-.php:53
+msgid "Shipping"
+msgstr ""
+
+#. translators: %s location.
+
+#: woocommerce/cart/cart-totals-.php:72
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals-.php:98 woocommerce/cart/cart-totals-.php:99
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143 woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+
+#: woocommerce/checkout/payment.php:42
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/woocommerce.php:234
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+
+#: woocommerce/woocommerce.php:238
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+#. Theme Name of the plugin/theme
+msgid "Minisite Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://getminisites.com/theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Minisite is a beautiful one page WordPress theme designed to quickly achieve your business goals through clear, concise and interactive story-telling."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Troy Templeman"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://troytempleman.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""

@@ -1,0 +1,192 @@
+/**
+ * Homepage Call to Action Section Customizer styles
+ */
+
+.customize-control {
+    margin-bottom: 8px;
+}
+
+.customize-control select {
+	margin: 0;
+}
+
+.customize-control .mce-edit-area iframe,
+.customize-control .customize-control-tinymce-editor {
+	min-height: 145px !important;
+	margin-bottom: -4px;
+}
+
+.customize-control .iris-picker {
+	margin-top: 12px;
+}
+
+.customize-control .upload-button,
+.customize-control .wp-color-result {
+	margin-bottom: 1px;
+}
+
+#customize-control-display_call_to_action,
+#customize-control-display_call_to_action_title,
+#customize-control-display_call_to_action_text,
+#customize-control-display_call_to_action_button_1,
+#customize-control-display_call_to_action_button_2,
+#customize-control-display_call_to_action_colors,
+#customize-control-display_call_to_action_heading_color,
+#customize-control-display_call_to_action_font_color,
+#customize-control-display_call_to_action_background,
+#customize-control-display_call_to_action_background_color,
+#customize-control-display_call_to_action_background_image,
+#customize-control-display_call_to_action_padding,
+#customize-control-call_to_action_top_padding,
+#customize-control-call_to_action_bottom_padding {
+	margin-bottom: 0;
+}
+
+#customize-control-display_call_to_action label,
+#customize-control-display_call_to_action_title label,
+#customize-control-display_call_to_action_text label,
+#customize-control-display_call_to_action_button_1 label,
+#customize-control-display_call_to_action_button_2 label,
+#customize-control-display_call_to_action_colors label,
+#customize-control-display_call_to_action_heading_color label,
+#customize-control-display_call_to_action_font_color label,
+#customize-control-display_call_to_action_background label,
+#customize-control-display_call_to_action_background_color label,
+#customize-control-display_call_to_action_background_image label,
+#customize-control-display_call_to_action_padding label,
+#customize-control-call_to_action_top_padding label,
+#customize-control-call_to_action_bottom_padding label {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+#customize-control-call_to_action_title .customize-control-title,
+#customize-control-call_to_action_text .customize-control-title,
+#customize-control-call_to_action_button_1_text .customize-control-title,
+#customize-control-call_to_action_button_2_text .customize-control-title,
+#customize-control-call_to_action_heading_color .customize-control-title,
+#customize-control-call_to_action_font_color .customize-control-title,
+#customize-control-call_to_action_background_color .customize-control-title,
+#customize-control-call_to_action_background_image .customize-control-title {
+	display: none;	
+}
+
+#customize-control-call_to_action_button_1_url .customize-control-title,
+#customize-control-call_to_action_button_2_url .customize-control-title,  
+#customize-control-call_to_action_background_image_size .customize-control-title, 
+#customize-control-call_to_action_background_image_position .customize-control-title, 
+#customize-control-call_to_action_background_image_attachment .customize-control-title, 
+#customize-control-call_to_action_background_image_repeat .customize-control-title, 
+#customize-control-call_to_action_background_image_opacity .customize-control-title, 
+#customize-control-call_to_action_overlay_color .customize-control-title, 
+#customize-control-call_to_action_overlay_color_opacity .customize-control-title, 
+#customize-control-call_to_action_blend_mode .customize-control-title,
+#customize-control-call_to_action_top_padding label,
+#customize-control-call_to_action_bottom_padding label {
+	font-weight: normal;
+}
+
+#customize-control-display_call_to_action_heading_color label,
+#customize-control-display_call_to_action_font_color label,
+#customize-control-display_call_to_action_background_color label,
+#customize-control-display_call_to_action_background_image label {
+	font-weight: normal;
+}
+
+#customize-control-call_to_action_slug {
+	margin: -1px 6px 1px;
+}
+
+#customize-control-call_to_action_slug .customize-control-title {
+	display: none;
+}
+
+#customize-control-call_to_action_slug .customize-control-description {
+	display: inline-block;
+	color: #666;
+	font-size: 13px;
+	font-weight: normal;
+	font-style: normal;
+	padding: 3px 0 0;
+	margin: -3px -4px 0 0;	
+}
+
+#customize-control-call_to_action_slug input {
+	display: inline-block;
+	color: #666;
+	font-size: 13px;
+	line-height: 18px;
+	width: 34px;
+	border: none;
+	box-shadow: none;
+	background-color: transparent;
+	padding: 3px 0;
+	margin-top: -3px;
+}
+
+#customize-control-call_to_action_slug input:focus {
+	width: 100%;
+	color: #32373c;
+    border: 1px solid #ddd;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    background-color: #fff;
+	padding: 2px 5px;
+	margin: 3px 0 7px -6px;
+}
+
+#customize-control-call_to_action_text .wp-switch-editor {
+	margin-top: -28px;
+}
+
+#customize-control-call_to_action_background_image_opacity,
+#customize-control-call_to_action_overlay_color_opacity {
+	margin-bottom: 0;
+}
+
+#customize-control-call_to_action_background_image_opacity input,
+#customize-control-call_to_action_overlay_color_opacity input,
+#customize-control-call_to_action_top_padding input,
+#customize-control-call_to_action_bottom_padding input {
+	margin-top: -3px;	
+}
+
+#customize-control-display_call_to_action_colors,
+#customize-control-display_call_to_action_background,
+#customize-control-display_call_to_action_padding,
+#customize-control-display_call_to_action_animation,
+#customize-control-display_call_to_action_widgets {
+	margin-bottom: 0;
+}
+
+#customize-control-display_call_to_action_colors label,
+#customize-control-display_call_to_action_background label,
+#customize-control-display_call_to_action_padding label,
+#customize-control-display_call_to_action_animation label,
+#customize-control-display_call_to_action_widgets label,
+#_customize-input-display_call_to_action_colors,
+#_customize-input-display_call_to_action_background,
+#_customize-input-display_call_to_action_padding,
+#_customize-input-display_call_to_action_animation,
+#_customize-input-display_call_to_action_widgets {
+	display: none;
+}
+
+#_customize-description-display_call_to_action_colors,
+#_customize-description-display_call_to_action_background,
+#_customize-description-display_call_to_action_padding,
+#_customize-description-display_call_to_action_animation,
+#_customize-description-display_call_to_action_widgets {
+	font-size: 14px;
+	font-weight: 600;
+	font-style: normal;
+}
+
+#_customize-description-display_call_to_action_colors a,
+#_customize-description-display_call_to_action_background a,
+#_customize-description-display_call_to_action_padding a,
+#_customize-description-display_call_to_action_animation a,
+#_customize-description-display_call_to_action_widgets a {
+	text-decoration: none;
+	font-variant: all-small-caps;
+	margin-left: 5px;
+}

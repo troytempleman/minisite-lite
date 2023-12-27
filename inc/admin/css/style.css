@@ -1,0 +1,232 @@
+/** 
+ * About
+ */
+
+.about-wrap .admin-theme-author {
+	font-style:italic;
+	font-size:16px;
+	line-height:1.5;
+}
+
+.about-wrap .feature-section p {
+    margin-top: .6em;
+}
+
+.about-wrap {
+    max-width: 100%;
+}
+
+.about-wrap a {
+    text-decoration: none;	
+}
+
+.about-wrap a:hover {
+    text-decoration: underline;	
+}
+
+.ms-badge {
+	color: #23282e;
+	background-color: #fff;
+	background-image: url(../img/minisite-icon.png);
+}
+
+.svg .ms-badge {
+	background-image: url(../img/minisite-icon.svg);
+}
+
+.admin-welcome-panel {
+	font-size: 15px;
+	padding: 0 0 25px 0;
+	margin: 25px 0 0 0;
+}
+
+.admin-welcome-panel p {
+	color: #444;
+    margin-top: .6em;
+}
+
+/** 
+ * Theme Setup 
+ */
+
+.theme-setup-image img {
+	max-height: 235px;;
+}
+
+/** 
+ * Install Plugins 
+ */
+
+.tgmpa-table #tgmpa-plugins {
+	padding: 0 0 1em;	
+}
+
+.tgmpa-table .tablenav {
+	display: none;
+}
+
+.tgmpa-table .wp-list-table {
+	width: auto;
+	border: none;
+	box-shadow: none;
+	padding: 0
+}
+
+.tgmpa-table .updates-table tbody td.check-column, 
+.tgmpa-table .widefat tbody th.check-column, 
+.tgmpa-table .widefat tfoot td.check-column, 
+.tgmpa-table .widefat thead td.check-column {
+	padding: .4em 0 0;
+}
+
+.tgmpa-table .widefat td, 
+.tgmpa-table .widefat th {
+	padding: 0;
+}
+
+.tgmpa-table .widefat td, 
+.tgmpa-table .widefat td ol, 
+.tgmpa-table .widefat td p, 
+.tgmpa-table .widefat td ul {
+	line-height: 1.5;
+	font-size: 16px;
+}
+
+.tgmpa-table .updates-table td input, 
+.tgmpa-table .widefat tfoot td input, 
+.tgmpa-table .widefat th input, 
+.tgmpa-table .widefat thead td input {
+	margin: 0;
+}
+
+.tgmpa-table .row-actions .install,
+.tgmpa-table .row-actions .activate,
+.tgmpa-table .row-actions .update {
+	display: none;
+}
+
+.tgmpa-install {
+	padding: 0 0 1em;	
+}
+
+.tgmpa-install h2 {
+	color: inherit;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: inherit;
+    text-align: inherit;
+    margin: 0;
+    padding: 0; 
+}
+
+.tgmpa-install p {
+	margin: 0;
+}
+
+.tgmpa-install br {
+	display: none; 
+}
+
+.tgmpa-table .wp-list-table tr td.plugin strong {
+	font-weight: normal;
+}
+
+.tgmpa-table .subsubsub,
+.tgmpa-table thead,
+.tgmpa-table tfoot,
+.tgmpa-table .tablenav.bottom,
+.tgmpa-table .column-source,
+.tgmpa-table .column-type,
+.tgmpa-table .column-version,
+.tgmpa-table .column-status {
+	display: none; 	
+}
+
+/** 
+ * Import Demo
+ */
+
+.TDI__import-mode-switch {
+    float: none;
+}
+
+#TDI__content-file-upload,
+#TDI__widget-file-upload,
+#TDI__customizer-file-upload,
+#TDI__customizer-file-upload,
+#TDI__redux-file-upload,
+#TDI__redux-option-name {
+	font-size: 11px;
+}
+
+.TDI__file-upload, 
+.TDI__multi-select-import, 
+.TDI__demo-import-notice:not(:empty) {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.TDI__gl-header {
+    display: inline-block;
+    width: calc(100% - 40px);
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.TDI__gl-navigation li a {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0;
+	margin-right: 16px;
+	border: none !important;
+}
+
+.TDI__gl-navigation li.active a, 
+.TDI__gl-navigation li.active a:hover {
+	border: 0;	
+}
+
+.TDI__button-container {
+	margin-top: 0
+}
+
+p.TDI__ajax-loader {
+    font-size: 16px;
+    line-height: 1.5;	
+}
+
+.TDI__response .notice, div.error, div.updated {
+    background: #fff;
+    border: 0;
+    border-left-width: 0;
+    box-shadow: none;
+    margin: 0;
+    padding: 0;
+}
+
+/** 
+ * Set Homepage
+ */
+
+.set-homepage-notice {
+	display: none;
+}
+
+/** 
+ * Theme Setup Complete
+ */
+
+.theme-setup-complete ul {
+	list-style: inherit;
+	padding: 0 0 1em;
+	margin: inherit;
+}
+
+.theme-setup-complete ul li {
+	font-size: 16px;
+	line-height: 1.5;
+	padding: 0;
+	margin: 0;
+}

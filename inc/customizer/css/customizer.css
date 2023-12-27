@@ -1,0 +1,418 @@
+/**
+ * Customizer styles
+ */
+
+.customize-control {
+    margin-bottom: 8px;
+}
+
+.customize-control select {
+	margin: 0;
+}
+
+.customize-control .mce-edit-area iframe,
+.customize-control .customize-control-tinymce-editor {
+	min-height: 145px !important;
+	margin-bottom: -4px;
+}
+
+.wp-picker-container .wp-color-result.button {
+	margin-bottom: 0;
+}
+
+.customize-control .iris-picker {
+	margin-top: 12px;
+}
+
+.customize-control .upload-button,
+.customize-control .wp-color-result {
+	margin-bottom: 1px;
+}
+
+.customize-control-header .actions, .customize-control-header .uploaded {
+    margin-bottom: 0;
+}
+
+#customize-control-display_navbar,
+#customize-control-display_navbar_colors,
+#customize-control-display_logo,
+#customize-control-display_site_logo_icon,
+#customize-control-display_site_title,
+#customize-control-display_tagline,
+#customize-control-display_search,
+#customize-control-display_menu,
+#customize-control-full_width_navbar,
+#customize-control-sticky_navbar,
+#customize-control-sticky_navbar_description,
+#customize-control-display_sticky_navbar_logo,
+#customize-control-display_sticky_navbar_colors,
+#customize-control-display_header,
+#customize-control-display_header_image_title,
+#customize-control-display_header_image_text,
+#customize-control-display_header_image_background,
+#customize-control-header_image_background_image_opacity,
+#customize-control-display_header_background,
+#customize-control-display_header_image_background_color,
+#customize-control-display_header_image_background_image,
+#customize-control-display_header_image_colors,
+#customize-control-display_header_image_heading_color,
+#customize-control-display_header_image_font_color,
+#customize-control-display_header_position,
+#customize-control-display_header_height,
+#customize-control-full_screen_header,
+#customize-control-display_header_scroll_down_arrow,
+#customize-control-display_header_padding,
+#customize-control-header_top_padding,
+#customize-control-header_bottom_padding,
+#customize-control-display_site_icon,
+#customize-control-display_footer,
+#customize-control-display_footer_separator,
+#customize-control-display_footer_block_colophon,
+#customize-control-display_footer_block_colophon_copyright,
+#customize-control-display_footer_block_colophon_copyright_owner,
+#customize-control-display_footer_block_colophon_copyright_link,
+#customize-control-display_footer_block_colophon_admin,
+#customize-control-display_footer_block_colophon_terms_of_use,
+#customize-control-display_footer_block_colophon_privacy_policy,
+#customize-control-display_footer_block_colophon_credits,
+#customize-control-admin,
+#customize-control-custom_background_image,
+#customize-control-custom_colors,
+#customize-control-css,
+#customize-control-icon_fonts,
+#customize-control-disable_emojis,
+#customize-control-footer_section,
+#customize-control-homepage_sections,
+#customize-control-homepage_about_section,
+#customize-control-homepage_call_to_action_section,
+#customize-control-homepage_contact_section,
+#customize-control-homepage_facts_section,
+#customize-control-homepage_faq_section,
+#customize-control-homepage_gallery_section,
+#customize-control-homepage_header_section,
+#customize-control-homepage_logos_section,
+#customize-control-homepage_map_section,
+#customize-control-homepage_news_section,
+#customize-control-homepage_newsletter_section,
+#customize-control-homepage_pricing_section,
+#customize-control-homepage_services_section,
+#customize-control-homepage_team_section,
+#customize-control-homepage_testimonials_section,
+#customize-control-icons,
+#customize-control-minify,
+#customize-control-navbar_scroll,
+#customize-control-notification_bar,
+#customize-control-right_to_left_language,
+#customize-control-search_collapse,
+#customize-control-smooth_scroll,
+#customize-control-social_sharing,
+#customize-control-tidy_html,
+#customize-control-custom_typography,
+#customize-control-theme_admin,
+#customize-control-update_jquery,
+#customize-control-widgets,
+#customize-control-display_link_color {
+	margin-bottom: 0;
+}
+
+#customize-control-display_navbar label,
+#customize-control-sticky_navbar label,
+#customize-control-display_header label,
+#customize-control-display_header_background label,
+#customize-control-display_site_icon label,
+#customize-control-display_footer label,
+#customize-control-display_footer_separator label,
+#customize-control-display_footer_block_colophon label,
+#customize-control-display_footer_block_colophon_copyright label,
+#customize-control-display_footer_block_colophon_admin label,
+#customize-control-display_footer_block_colophon_terms_of_use label,
+#customize-control-display_footer_block_colophon_privacy_policy label,
+#customize-control-display_footer_block_colophon_credits label,
+#customize-control-display_link_color label {
+	font-size: 14px;
+	font-weight: 600;
+}
+
+#customize-control-display_logo label,
+#customize-control-display_site_logo_icon label,
+#customize-control-display_site_title label,
+#customize-control-display_tagline label,
+#customize-control-display_search label,
+#customize-control-display_menu label,
+#customize-control-full_width_navbar label,
+#customize-control-display_navbar_colors label,
+#customize-control-sticky_navbar_logo label,
+#customize-control-display_sticky_navbar_logo label,
+#customize-control-display_sticky_navbar_colors label,
+#customize-control-display_header_image_title label,
+#customize-control-display_header_image_text label,
+#customize-control-display_header_image_background label,
+#customize-control-display_header_image_background_color label,
+#customize-control-display_header_image_background_image label,
+#customize-control-display_header_image_colors label,
+#customize-control-display_header_image_heading_color label,
+#customize-control-display_header_image_font_color label,
+#customize-control-display_header_position label,
+#customize-control-display_header_height label,
+#customize-control-full_screen_header label,
+#customize-control-display_header_scroll_down_arrow label,
+#customize-control-display_header_padding label,
+#customize-control-header_top_padding label,
+#customize-control-header_bottom_padding label,
+#customize-control-display_site_icon label,
+#customize-control-display_footer_block_colophon_copyright_owner label,
+#customize-control-display_footer_block_colophon_copyright_link label,
+#customize-control-admin label,
+#customize-control-custom_background_image label,
+#customize-control-custom_colors label,
+#customize-control-css label,
+#customize-control-icon_fonts label,
+#customize-control-disable_emojis label,
+#customize-control-footer_section label,
+#customize-control-homepage_sections label,
+#customize-control-homepage_about_section label,
+#customize-control-homepage_call_to_action_section label,
+#customize-control-homepage_contact_section label,
+#customize-control-homepage_facts_section label,
+#customize-control-homepage_faq_section label,
+#customize-control-homepage_gallery_section label,
+#customize-control-homepage_header_section label,
+#customize-control-homepage_logos_section label,
+#customize-control-homepage_map_section label,
+#customize-control-homepage_news_section label,
+#customize-control-homepage_newsletter_section label,
+#customize-control-homepage_pricing_section label,
+#customize-control-homepage_services_section label,
+#customize-control-homepage_team_section label,
+#customize-control-homepage_testimonials_section label,
+#customize-control-icons label,
+#customize-control-minify label,
+#customize-control-navbar_scroll label,
+#customize-control-notification_bar label,
+#customize-control-right_to_left_language label,
+#customize-control-search_collapse label,
+#customize-control-smooth_scroll label,
+#customize-control-social_sharing label,
+#customize-control-tidy_html label,
+#customize-control-custom_typography label,
+#customize-control-theme_admin label,
+#customize-control-update_jquery label,
+#customize-control-widgets label { 
+	font-size: 14px;
+}
+
+#customize-control-navbar_background_color .customize-control-title,
+#customize-control-navbar_font_color .customize-control-title,
+#customize-control-site_logo_size .customize-control-title,
+#customize-control-site_logo_icon_color .customize-control-title,
+#customize-control-site_logo_icon_size .customize-control-title,
+#customize-control-site_title_color .customize-control-title,
+#customize-control-site_title_size .customize-control-title,
+#customize-control-display_hamburger_menu .customize-control-title,
+#customize-control-sticky_navbar_background_color .customize-control-title,
+#customize-control-sticky_navbar_font_color .customize-control-title,
+#customize-control-sticky_navbar_icon_color .customize-control-title,
+#customize-control-sticky_navbar_site_title_color .customize-control-title,
+#customize-control-header_displays .customize-control-title,
+#customize-control-header_scroll_down_arrow_link .customize-control-title,
+#customize-control-header_image .customize-control-title,
+#customize-control-header_image_background_attachment .customize-control-title,
+#customize-control-header_image_background_position .customize-control-title,
+#customize-control-header_image_background_size .customize-control-title,
+#customize-control-header_image_background_repeat .customize-control-title,
+#customize-control-header_image_background_image_opacity .customize-control-title,
+#customize-control-header_image_overlay_color .customize-control-title,
+#customize-control-header_image_overlay_color_opacity .customize-control-title,
+#customize-control-header_image_blend_mode .customize-control-title,
+#customize-control-header_position .customize-control-title,
+#customize-control-header_height .customize-control-title { 
+	font-weight: normal;
+}
+
+#customize-control-site_logo .customize-control-title,
+#customize-control-custom_logo .customize-control-title,
+#customize-control-site_logo_icon .customize-control-title,
+#customize-control-blogname .customize-control-title,
+#customize-control-blogdescription .customize-control-title,
+#customize-control-sticky_navbar_logo .customize-control-title,
+#customize-control-header_image_title .customize-control-title,
+#customize-control-header_image_text .customize-control-title,
+#customize-control-header_image_background_color .customize-control-title,
+#customize-control-header_image .customize-control-title,
+#customize-control-header_position .customize-control-title,
+#customize-control-header_height .customize-control-title,
+#customize-control-header_image_heading_color .customize-control-title,
+#customize-control-header_image_font_color .customize-control-title,
+#customize-control-footer_block_colophon_copyright_owner .customize-control-title,
+#customize-control-footer_block_colophon_copyright_link .customize-control-title,
+#customize-control-footer_block_colophon_terms_of_use .customize-control-title,
+#customize-control-footer_block_colophon_privacy_policy .customize-control-title,
+#customize-control-footer_block_colophon_credits .customize-control-title,
+#customize-control-site_icon .customize-control-title,
+#customize-control-link_color .customize-control-title {
+	display: none;
+}
+
+#customize-control-site_logo_size,
+#customize-control-site_logo_icon_size,
+#customize-control-site_title_size,
+#customize-control-header_position,
+#customize-control-header_height,
+#customize-control-header_image_overlay_color_opacity {
+	margin-bottom: 0;
+}
+
+#customize-control-site_logo_size input,
+#customize-control-site_logo_icon_size input,
+#customize-control-site_title_size input,
+#customize-control-header_position input,
+#customize-control-header_height input,
+#customize-control-header_background_attachment input,
+#customize-control-header_background_position input,
+#customize-control-header_background_size input,
+#customize-control-header_background_repeat input,
+#customize-control-header_image_background_image_opacity input,
+#customize-control-header_image_overlay_color_opacity input,
+#customize-control-header_top_padding input,
+#customize-control-header_bottom_padding input {
+	margin-top: -3px;	
+}
+
+#customize-control-footer_block_colophon_terms_of_use .wp-switch-editor,
+#customize-control-footer_block_colophon_privacy_policy .wp-switch-editor,
+#customize-control-footer_block_colophon_credits .wp-switch-editor {
+	margin-top: -28px;
+}
+
+#customize-control-site_icon p:first-child {
+	margin-top: 0;
+}
+
+#customize-control-header_image_text .wp-switch-editor {
+	margin-top: -28px;
+}
+
+#customize-control-homepage_section_ordering_visibility {
+	margin-bottom: 0;
+}
+
+#customize-control-homepage_section_ordering_visibility .customize-inside-control-row {
+	margin-left: 0;
+}
+
+#customize-control-display_footer_colors,
+#customize-control-display_footer_background,
+#customize-control-display_footer_padding,
+#customize-control-display_footer_animation,
+#customize-control-display_footer_widgets,
+#customize-control-footer_section,
+#customize-control-homepage_faq_section,
+#customize-control-homepage_gallery_section,
+#customize-control-homepage_logos_section,
+#customize-control-homepage_newsletter_section,
+#customize-control-homepage_pricing_section,
+#customize-control-homepage_testimonials_section,
+#customize-control-minify,
+#customize-control-notification_bar,
+#customize-control-social_sharing,
+#customize-control-typography {
+	margin-bottom: 0;
+}
+
+#customize-control-homepage_section_ordering_visibility label,
+#customize-control-display_footer_colors label,
+#customize-control-display_footer_background label,
+#customize-control-display_footer_padding label,
+#customize-control-display_footer_animation label,
+#customize-control-display_footer_widgets label,
+#customize-control-footer_section label,
+#customize-control-homepage_faq_section label,
+#customize-control-homepage_gallery_section label,
+#customize-control-homepage_logos_section label,
+#customize-control-homepage_newsletter_section label,
+#customize-control-homepage_pricing_section label,
+#customize-control-homepage_testimonials_section label,
+#customize-control-minify label,
+#customize-control-notification_bar label,
+#customize-control-social_sharing label,
+#customize-control-typography label,
+#_customize-input-homepage_section_ordering_visibility,
+#_customize-input-display_footer_colors,
+#_customize-input-display_footer_background,
+#_customize-input-display_footer_padding,
+#_customize-input-display_footer_animation,
+#_customize-input-display_footer_widgets,
+#_customize-input-footer_section,
+#_customize-input-homepage_faq_section,
+#_customize-input-homepage_gallery_section,
+#_customize-input-homepage_logos_section,
+#_customize-input-homepage_newsletter_section,
+#_customize-input-homepage_pricing_section,
+#_customize-input-homepage_testimonials_section,
+#_customize-input-minify,
+#_customize-input-notification_bar,
+#_customize-input-social_sharing,
+#_customize-input-typography {
+	display: none;
+}
+
+#_customize-description-homepage_section_ordering_visibility,
+#_customize-description-display_footer_colors,
+#_customize-description-display_footer_background,
+#_customize-description-display_footer_padding,
+#_customize-description-display_footer_animation,
+#_customize-description-display_footer_widgets,
+#_customize-description-footer_section,
+#_customize-description-homepage_faq_section,
+#_customize-description-homepage_gallery_section,
+#_customize-description-homepage_logos_section,
+#_customize-description-homepage_newsletter_section,
+#_customize-description-homepage_pricing_section,
+#_customize-description-homepage_testimonials_section,
+#_customize-description-minify,
+#_customize-description-notification_bar,
+#_customize-description-social_sharing,
+#_customize-description-typography {
+	font-size: 14px;
+	font-weight: 600;
+	font-style: normal;
+	margin-top: 1px;
+	margin-bottom: 2px;
+}
+
+#_customize-description-footer_section,
+#_customize-description-homepage_faq_section,
+#_customize-description-homepage_gallery_section,
+#_customize-description-homepage_logos_section,
+#_customize-description-homepage_newsletter_section,
+#_customize-description-homepage_pricing_section,
+#_customize-description-homepage_testimonials_section,
+#_customize-description-minify,
+#_customize-description-notification_bar,
+#_customize-description-social_sharing,
+#_customize-description-typography {
+	font-weight: normal;
+}
+
+#_customize-description-homepage_section_ordering_visibility a,
+#_customize-description-display_footer_colors a,
+#_customize-description-display_footer_background a,
+#_customize-description-display_footer_padding a,
+#_customize-description-display_footer_animation a,
+#_customize-description-display_footer_widgets a,
+#_customize-description-footer_section a,
+#_customize-description-homepage_faq_section a,
+#_customize-description-homepage_gallery_section a,
+#_customize-description-homepage_logos_section a,
+#_customize-description-homepage_newsletter_section a,
+#_customize-description-homepage_pricing_section a,
+#_customize-description-homepage_testimonials_section a,
+#_customize-description-minify a,
+#_customize-description-notification_bar a,
+#_customize-description-social_sharing a,
+#_customize-description-typography a {
+	text-decoration: none;
+	font-variant: all-small-caps;
+	font-weight: bold;
+	margin-left: 5px;
+}
